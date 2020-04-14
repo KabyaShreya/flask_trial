@@ -1,0 +1,15 @@
+
+body{
+
+	background-color: #D8BFD8;
+	color: #555555;
+	font: normal 26px Arial, Helvetica, sans-serif;
+
+	line-height: 1.6em;
+	margin: 0;
+
+}
+.title{
+  text-align: center;
+  border: 20px;
+}
